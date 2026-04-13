@@ -4,7 +4,7 @@ In diesem Abschnitt geht es um Skills fuer **Coding-nahe Workflows**:
 
 1. den `mcp-builder` Skill von skills.sh nutzen,
 2. einen eigenen Skill mit Unterordnern + Python-Skript aufbauen.
-3. teste den neuesten research --> skill hype: Caveman
+3. teste den neuesten research --> skill hype: Caveman || Karpathy Skillset
 
 ---
 
@@ -204,11 +204,13 @@ Erklaere danach knapp, wie ich Intervall und Anzahl anpasse.
 - Externe Skills und Skripte immer reviewen (Quelle, Berechtigungen, Verhalten, prompt-injection, zusätzliche Online-Recherche etc.).
 - Lokale Skripte klein halten, klar benennen, Fehlerfälle dokumentieren.
 
-## Teil C / Goodie: *Let LLMs talk like a caveman*
+## Teil C / Goodies: *Let LLMs talk like a caveman*
 
 - Installiere diesen Skill: [Link zum GitHub Repo von **Caveman**](https://github.com/JuliusBrussee/caveman?tab=readme-ov-file).
 - Teste mal aus, wie das so funktioniert und ob das Vorteile bringt.
 - Bei Interesse lies in das verlinkte Paper rein, das Grundlage hierfür ist.
+
+Außerdem kannst du mal schauen, ob dir die Beobachtungen und Lösungen voon Andrej Karpathy für dein Setup helfen und besser Ergebnisse liefern: [Link](https://github.com/forrestchang/andrej-karpathy-skills)  
 
 
 ### Viel Erfolg beim weiteren Einsatz von Agent-Skills! 
