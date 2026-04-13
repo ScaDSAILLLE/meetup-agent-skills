@@ -38,9 +38,9 @@ Ein Skill ist **kein neues Modell**, sondern ein kuratierter Arbeitsablauf gesch
 
 ## Wann sind Skills gut - wann eher nicht?
 
-### Gute Faelle fuer Skills
+### Gute Fälle fuer Skills
 
-- wiederkehrende Aufgaben mit aehnlichem Muster,
+- wiederkehrende Aufgaben mit ähnlichem Muster,
 - konkrete Artefakte als Ziel (Datei, Diagramm, Bericht, Strukturtext, Code-Struktur/Pattern etc.),
 - einheitliche Qualität.
 
@@ -132,8 +132,8 @@ Hinweis: In `2_skill_basics/` kannst du selbst anhand des *klassischen* Skill-Te
 ## Wo findet man Skills?
 
 - über `/skills` in OpenCode (**Achtung**: nur vorkonfigurierte oder bereits installierte Skills- das ist **keine** Skill-Bibliothek),
-- über Discovery-Workflows wie `/find-skills` (das haben wir von [skills.sh](skills.sh) bezogen, um den Umgang und das Beziehen neuer (fremder/externer) Skills von Dritten zu erleichtern),
-- über kuratierte Quellen wie `https://skills.sh/`.
+- über Discovery-Workflows wie `/find-skills`. Das ist ein Skill den wir von [skills.sh](skills.sh) bezogen haben. Er hilft dabei Skills in der kuratierten Skill-Bibliothek auf skills.sh zu finden uns diese zu installieren
+- direkt über kuratierte Quellen wie `https://skills.sh/`
 
 ## Sicherheits-Disclaimer (**Achtung:** wichtig!)
 
@@ -149,7 +149,7 @@ Nicht überzeugt? Schaut mal [hier](https://www.mitiga.io/blog/ai-agent-supply-c
 
 ## Setup für heute
 
-1. Opencode (Website)[opencode.ai]; schaut gerne in die Docs und wer es eigens installieren möchte oder eine Einführung in die Nutzung braucht schaut [hier](../0_opencode/README.md)
+1. Opencode ([Website](https://opencode.ai)): schaut gerne in die [Docs](https://opencode.ai/docs/de) und wer es eigens installieren möchte oder eine Einführung in die Nutzung braucht schaut [hier](../0_opencode/README.md)
 2. Spitzen Workshop-Material, klar :)
 3. Vorbereitete Laptops samt Zugriff auf unser ScaDS.AI LLM-Cluster am ZIH/HPC an der TU Dresden [Link](https://llm.scads.ai/docs/) mit [folgenden Modellen](https://llm.scads.ai/status/)
 
@@ -158,9 +158,9 @@ Nicht überzeugt? Schaut mal [hier](https://www.mitiga.io/blog/ai-agent-supply-c
 
 Bis hierher hast du Begriffe, Grundstruktur, Pro/Con etc. eingecheckt. 
 
-- Wenn du bereit bist, kannst du mit `2_skill_basics/`: erster eigener Skill + Vergleich ohne/mit Skill usw.
+- Wenn du bereit bist, kannst du mit `2_skill_basics/` starten: Probier den dort abgelegten Wikipedia-Skill aus oder erstelle deinen ersten eigenen Skill mit unserem dafür vorbereiteten Skill "Guided-Skill-Builder"
 
-- Wer Skills schon grundlegend kennt oder sogar nutzt kann sich in `3_midlevel_office_tasks/`: fortgeschrittene Office-Workflows inspirieren lassen oder eigene Skills erstellen, testen usw.
+- Wer Skills schon grundlegend kennt oder sogar nutzt kann sich in `3_midlevel_office_tasks/`: fortgeschrittene Office-Workflows inspirieren lassen und vergleichen wie der Task mit und ohne Skill ausgeführt wird.
 
 - Für die Erfahrenen unter euch und insb. Coder haben wir `4_highlevel_coding_tasks/`: Skills mit Code/MCP-Anbindung vorbereitet- quasi der *Blick über den Tellerrand*. 
 
