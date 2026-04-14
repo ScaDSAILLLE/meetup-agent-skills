@@ -1,6 +1,6 @@
 # Highlevel Coding Tasks mit Skills
 
-In diesem Abschnitt geht es um Skills fuer **Coding-nahe Workflows**:
+In diesem Abschnitt geht es um Skills für **Coding-nahe Workflows**:
 
 1. den `mcp-builder` Skill von skills.sh nutzen,
 2. einen eigenen Skill mit Unterordnern + Python-Skript aufbauen.
@@ -210,7 +210,7 @@ Erklaere danach knapp, wie ich Intervall und Anzahl anpasse.
 - Teste mal aus, wie das so funktioniert und ob das Vorteile bringt.
 - Bei Interesse lies in das verlinkte Paper rein, das Grundlage hierfür ist.
 
-Außerdem kannst du mal schauen, ob dir die Beobachtungen und Lösungen voon Andrej Karpathy für dein Setup helfen und besser Ergebnisse liefern: [Link](https://github.com/forrestchang/andrej-karpathy-skills)  
+Außerdem kannst du mal schauen, ob dir die Beobachtungen und Lösungen von Andrej Karpathy für dein Setup helfen und besser Ergebnisse liefern: [Link](https://github.com/forrestchang/andrej-karpathy-skills)  
 
 
 ### Viel Erfolg beim weiteren Einsatz von Agent-Skills! 
