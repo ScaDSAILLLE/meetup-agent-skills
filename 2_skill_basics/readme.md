@@ -41,7 +41,7 @@ Nach jedem Schritt kurz vergleichen:
 - Hatte ich einen *"Aha-"* oder sogar einen *"Wow-"* Effekt?
 
 
-## Schritt 1 - Ein erster Skill:  Wikipedia-Skill testen 
+## Schritt 0 - Ein erster Skill:  Wikipedia-Skill testen 
 
 ### Ziel
 
@@ -90,7 +90,7 @@ Am Ende liegt ein verständlicher Skill-Entwurf vor, der ohne Platzhalter
 benutzbar ist.
 
 
-## Schritt 3 - OpenCode neu starten und Skill prüfen
+## Schritt 2 - OpenCode neu starten und Skill prüfen
 
 ### Ziel
 
@@ -111,7 +111,7 @@ Sicherstellen, dass der Skill korrekt erkannt wird.
 - Trigger-Formulierungen in der Description konkretisieren...
 
 
-## Schritt 4 - Eigene Mini-Idee umsetzen (auf eigene Faust)
+## Schritt 3 - Eigene Mini-Idee umsetzen (auf eigene Faust)
 
 ### Ziel
 

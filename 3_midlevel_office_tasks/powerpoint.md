@@ -103,18 +103,8 @@ Wende auf @praesentation.pptx ein modernes, dunkles Design an
 Kombiniere @teil1.pptx und @teil2.pptx zu @kombiniert.pptx
 ```
 
----
 
-## Design-Tipps
-
-- **Farben wählen** – nicht immer Blau, passend zum Thema
-- **Visuelle Elemente** – Bilder, Icons, Diagramme
-- **Konsistentes Layout** – nicht jede Folie gleich
-- **Lesbare Schrift** – Title 36pt+, Body 14-16pt
-
----
-
-## QA (Wichtig!)
+### Ergebnis Überprüfen (Wichtig!)
 
 Nach dem Erstellen:
 ```

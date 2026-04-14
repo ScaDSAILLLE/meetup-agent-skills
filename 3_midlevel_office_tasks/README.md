@@ -35,13 +35,13 @@ Du kannst auch einen **eigenen Skill** für deine Idee finden!
 
 Mit dem **find-skills** Skill von vercel-labs kannst du nach skill suchen:
 
-**CLI:**
+**OpneCode CLI (Terminal):**
 ```
 /skills
 ```
 → "find-skills" auswählen
 
-**GUI:**
+**OpenCode GUI (normales Programmfenster):**
 ```
 /find-skills
 ```
